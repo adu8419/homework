@@ -17,7 +17,7 @@ const allOptions: Option[] = [
   {label: 'fff', value: '666',},
   {label: 'ggg', value: '777',},
   {label: 'hhh', value: '888',},
-  {label: 'iii', value: '999',},
+  {label: 'iii', value: '9990000',},
 ]
 
 const allValues = allOptions.map(it => it.value)
